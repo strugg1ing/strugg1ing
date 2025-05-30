@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me
-[![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/strugg1ing)  [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/cdr-66) ![My Wechat](https://img.shields.io/badge/WeChat-Strugg1e_S-red?style=flat&logo=WeChat)
+[![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub&logoColor=FFFFFF&color=000000)](https://github.com/strugg1ing)  [![Zhihu](https://img.shields.io/badge/-Zhihu-333333?style=flat&logo=Zhihu&logoColor=FFFFFF&color=0084FF)](https://www.zhihu.com/people/cdr-66) ![My Wechat](https://img.shields.io/badge/WeChat-Strugg1e__S-green?style=flat&logo=WeChat)
 
 - 🎓 Education: A prospective Master Student in Cyberspace Security
 - 🏫 University: Currently studying at Sun Yat-sen University 
