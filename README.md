@@ -11,13 +11,16 @@
 
 ### 🛠 Tech Stack 
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=1E90FF&color=483D8B)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=FFA500&color=483D8B)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00BFFF&color=483D8B)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=1E90FF&color=483D8B)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&color=483D8B)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=iTerm2&color=483D8B&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&color=483D8B)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&color=483D8B)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624&color=483D8B)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda&color=483D8B)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-333333?style=flat&logo=androidstudio&color=483D8B)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&color=483D8B)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burpsuite&color=483D8B)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&color=483D8B)
