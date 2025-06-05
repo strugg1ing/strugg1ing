@@ -5,7 +5,7 @@
 
 - 🎓 Education: A prospective Master Student in Cyberspace Security
 - 🏫 University: Currently studying at Sun Yat-sen University 
-- 🔭 Study Goals: I’m currently learning Android & Security 
+- 🔭 Study Goals: I’m currently learning Android Security & Generative AI 
 - 🌐 Languages: C, C++, Python & Java
 - 📧 Get in Touch: shenx36@mail2.sysu.edu.cn
 
